@@ -67,7 +67,7 @@ IOC_TO_ISO = {
     'FSM': 'FM',
     'GAB': 'GA',
     'GAM': 'GM',
-    'GBR': 'GB',
+    'GBR': 'UK',
     'GBS': 'GW',
     'GEO': 'GE',
     'GEQ': 'GQ',
